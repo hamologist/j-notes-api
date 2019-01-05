@@ -3,7 +3,7 @@ from typing import List
 from flask import request
 from flask_auth0 import requires_auth
 from flask_restful import Resource
-from j_notes_api_flask.notes.models import NoteModel
+from j_notes_api.notes.models import NoteModel
 
 
 class NotesListResource(Resource):

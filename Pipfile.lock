@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "afce716d2be7b8e22c62e1741a58c348b8176d1bb0486ce5e224cf7958abd8ba"
+            "sha256": "828c98b3d18ec97d842547f4c61c63dc223f14b959aae63537131337c12aa507"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -25,11 +25,11 @@
         },
         "auth0-python": {
             "hashes": [
-                "sha256:86a6b436bd7b60fe06d44788ec162db2afc4a20796f195a36f5e1a4813645fd4",
-                "sha256:d96aeb734375c8f45c65837d5ba385a42e13f52f992f0a7ad7b43d38fcdd9016"
+                "sha256:83234aec79b19546c679d495ee925dd77a4ce7a089d9e2386d5f119f1a35f8b3",
+                "sha256:92f6906ec475da984034fbeac2c00c353430570c9d4e0f7cece5854a96429bd1"
             ],
             "index": "pypi",
-            "version": "==3.5.0"
+            "version": "==3.6.1"
         },
         "certifi": {
             "hashes": [
@@ -61,7 +61,7 @@
         },
         "env-process": {
             "editable": true,
-            "git": "ssh://git@bitbucket.org/hamologist/env-process.git",
+            "git": "ssh://git@github.com/hamologist/env-process.git",
             "ref": "e82d8210197fc3afb0fc3ba236403469cc3ee014"
         },
         "flask": {
@@ -74,8 +74,8 @@
         },
         "flask-auth0": {
             "editable": true,
-            "git": "ssh://git@bitbucket.org/hamologist/flask-auth0.git",
-            "ref": "4205a504766dba4225f958878b982d91cf6962c0"
+            "git": "ssh://git@github.com/hamologist/flask-auth0.git",
+            "ref": "00b18ba4f16e85e64b0c637c31a8de080a704936"
         },
         "flask-restful": {
             "hashes": [
